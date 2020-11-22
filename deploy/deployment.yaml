@@ -1,0 +1,50 @@
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: agent-pilotorder
+spec:
+  schedule: "*/5 * * * *"
+  concurrencyPolicy: Forbid
+  jobTemplate:
+    spec:
+      activeDeadlineSeconds: 600
+      backoffLimit: 1
+      template:
+        spec:
+          restartPolicy: Never
+          imagePullSecrets:
+          - name: pipeline-docker-registry
+          containers:
+          - name: agent-pilotorder
+            image: ${CICD_IMAGE}:${CICD_EXECUTION_SEQUENCE}-${CICD_GIT_COMMIT}
+            env:
+              - name: API_URL
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-pilotorder
+                    key: API_URL
+              - name: API_KEY
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-pilotorder
+                    key: API_KEY
+              - name: REDIS_URL
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-pilotorder
+                    key: REDIS_URL
+              - name: LOCODE
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-pilotorder
+                    key: LOCODE
+              - name: PILOTORDER_BASIC_AUTH
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-pilotorder
+                    key: PILOTORDER_BASIC_AUTH
+              - name: AINO_API_KEY
+                valueFrom:
+                  secretKeyRef:
+                    name: agent-pilotorder
+                    key: AINO_API_KEY

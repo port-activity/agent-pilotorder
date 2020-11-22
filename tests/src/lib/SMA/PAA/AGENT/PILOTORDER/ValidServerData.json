@@ -1,0 +1,365 @@
+{
+  "timestamp": "2019-12-12T21:09:49.331331Z",
+  "pilotages": [
+    {
+      "id": 454954,
+      "vesselImo": 9575151,
+      "vesselName": "Stonington Eagle",
+      "startTime": "2019-12-03T06:55:00Z",
+      "endTime": "2019-12-03T08:27:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455410,
+      "vesselImo": 9836488,
+      "vesselName": "BW Matsuyama",
+      "startTime": "2019-12-03T09:10:00Z",
+      "endTime": "2019-12-03T11:15:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455413,
+      "vesselImo": 9349289,
+      "vesselName": "Maliy B.S.",
+      "startTime": "2019-12-03T21:31:00Z",
+      "endTime": "2019-12-03T22:50:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455845,
+      "vesselImo": 9086253,
+      "vesselName": "Eurogracht",
+      "startTime": "2019-12-04T10:03:00Z",
+      "endTime": "2019-12-04T11:12:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455801,
+      "vesselImo": 9344710,
+      "vesselName": "Violetta",
+      "startTime": "2019-12-06T06:28:00Z",
+      "endTime": "2019-12-06T07:40:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455762,
+      "vesselImo": 9313199,
+      "vesselName": "Baltic Tern",
+      "startTime": "2019-12-06T06:42:00Z",
+      "endTime": "2019-12-06T08:16:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455796,
+      "vesselImo": 9191175,
+      "vesselName": "Georg Essberger",
+      "startTime": "2019-12-06T08:01:00Z",
+      "endTime": "2019-12-06T09:22:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455797,
+      "vesselImo": 9191175,
+      "vesselName": "Georg Essberger",
+      "startTime": "2019-12-07T02:01:00Z",
+      "endTime": "2019-12-07T02:50:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAP",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455950,
+      "vesselImo": 9288069,
+      "vesselName": "Saimaagracht",
+      "startTime": "2019-12-08T04:12:00Z",
+      "endTime": "2019-12-08T05:33:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456018,
+      "vesselImo": 9194282,
+      "vesselName": "Prima Queen",
+      "startTime": "2019-12-08T10:00:00Z",
+      "endTime": "2019-12-08T10:54:00Z",
+      "startCode": "FIRAP",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456143,
+      "vesselImo": 9775749,
+      "vesselName": "Volga Maersk",
+      "startTime": "2019-12-08T14:39:00Z",
+      "endTime": "2019-12-08T16:02:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456170,
+      "vesselImo": 9129263,
+      "vesselName": "Baltic Bright",
+      "startTime": "2019-12-09T03:00:00Z",
+      "endTime": "2019-12-09T04:08:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456141,
+      "vesselImo": 9432220,
+      "vesselName": "Vera Rambow",
+      "startTime": "2019-12-09T17:30:00Z",
+      "endTime": "2019-12-09T18:30:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456019,
+      "vesselImo": 9194282,
+      "vesselName": "Prima Queen",
+      "startTime": "2019-12-09T21:59:00Z",
+      "endTime": "2019-12-09T22:40:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAP",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456258,
+      "vesselImo": 9202522,
+      "vesselName": "Sluisgracht",
+      "startTime": "2019-12-10T04:24:00Z",
+      "endTime": "2019-12-10T05:38:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456171,
+      "vesselImo": 9129263,
+      "vesselName": "Baltic Bright",
+      "startTime": "2019-12-10T13:00:00Z",
+      "endTime": "2019-12-10T13:56:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456144,
+      "vesselImo": 9775749,
+      "vesselName": "Volga Maersk",
+      "startTime": "2019-12-10T21:25:00Z",
+      "endTime": "2019-12-10T22:46:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456325,
+      "vesselImo": 9387425,
+      "vesselName": "Empire",
+      "startTime": "2019-12-10T22:54:00Z",
+      "endTime": "2019-12-10T23:59:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456142,
+      "vesselImo": 9432220,
+      "vesselName": "Vera Rambow",
+      "startTime": "2019-12-11T00:22:00Z",
+      "endTime": "2019-12-11T01:13:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456391,
+      "vesselImo": 9224142,
+      "vesselName": "Ziltborg",
+      "startTime": "2019-12-11T04:08:00Z",
+      "endTime": "2019-12-11T05:15:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456260,
+      "vesselImo": 9201815,
+      "vesselName": "Lady Christina",
+      "startTime": "2019-12-11T04:29:00Z",
+      "endTime": "2019-12-11T05:33:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 455951,
+      "vesselImo": 9288069,
+      "vesselName": "Saimaagracht",
+      "startTime": "2019-12-11T17:57:00Z",
+      "endTime": "2019-12-11T18:45:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456306,
+      "vesselImo": 9333395,
+      "vesselName": "Valdivia",
+      "startTime": "2019-12-11T19:07:00Z",
+      "endTime": "2019-12-11T20:23:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456261,
+      "vesselImo": 9201815,
+      "vesselName": "Lady Christina",
+      "startTime": "2019-12-11T21:24:00Z",
+      "endTime": "2019-12-11T21:57:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAP",
+      "state": "FINISHED"
+    },
+    {
+      "id": 456307,
+      "vesselImo": 9333395,
+      "vesselName": "Valdivia",
+      "startTime": "2019-12-12T21:30:00Z",
+      "endTime": "2019-12-12T22:41:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "ORDER"
+    },
+    {
+      "id": 456326,
+      "vesselImo": 9387425,
+      "vesselName": "Empire",
+      "startTime": "2019-12-12T21:31:00Z",
+      "endTime": "2019-12-12T22:34:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "ORDER"
+    },
+    {
+      "id": 456206,
+      "vesselImo": 8104541,
+      "vesselName": "Traveberg",
+      "startTime": "2019-12-13T03:30:00Z",
+      "endTime": "2019-12-13T04:37:00Z",
+      "startCode": "FIRAP",
+      "endCode": "FIRAU",
+      "state": "ORDER"
+    },
+    {
+      "id": 456259,
+      "vesselImo": 9202522,
+      "vesselName": "Sluisgracht",
+      "startTime": "2019-12-13T06:00:00Z",
+      "endTime": "2019-12-13T07:05:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "ORDER"
+    },
+    {
+      "id": 455411,
+      "vesselImo": 9836488,
+      "vesselName": "BW Matsuyama",
+      "startTime": "2019-12-13T07:00:00Z",
+      "endTime": "2019-12-13T07:57:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "ORDER"
+    },
+    {
+      "id": 456207,
+      "vesselImo": 8104541,
+      "vesselName": "Traveberg",
+      "startTime": "2019-12-13T18:00:00Z",
+      "endTime": "2019-12-13T18:57:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "NOTICE"
+    },
+    {
+      "id": 456392,
+      "vesselImo": 9224142,
+      "vesselName": "Ziltborg",
+      "startTime": "2019-12-13T21:00:00Z",
+      "endTime": "2019-12-13T22:10:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "NOTICE"
+    },
+    {
+      "id": 455846,
+      "vesselImo": 9086253,
+      "vesselName": "Eurogracht",
+      "startTime": "2019-12-14T10:17:00Z",
+      "endTime": "2019-12-14T11:36:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "ESTIMATE"
+    },
+    {
+      "id": 456395,
+      "vesselImo": 9147710,
+      "vesselName": "Annegret",
+      "startTime": "2019-12-14T12:00:00Z",
+      "endTime": "2019-12-14T13:15:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "ESTIMATE"
+    },
+    {
+      "id": 456584,
+      "vesselImo": 9197375,
+      "vesselName": "Singelgracht",
+      "startTime": "2019-12-16T12:00:00Z",
+      "endTime": "2019-12-16T13:21:00Z",
+      "startCode": "FIRAE",
+      "endCode": "FIRAU",
+      "state": "ESTIMATE"
+    },
+    {
+      "id": 456396,
+      "vesselImo": 9147710,
+      "vesselName": "Annegret",
+      "startTime": "2019-12-16T22:17:00Z",
+      "endTime": "2019-12-16T23:07:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "ESTIMATE"
+    },
+    {
+      "id": 456585,
+      "vesselImo": 9197375,
+      "vesselName": "Singelgracht",
+      "startTime": "2019-12-17T21:00:00Z",
+      "endTime": "2019-12-17T22:03:00Z",
+      "startCode": "FIRAU",
+      "endCode": "FIRAE",
+      "state": "ESTIMATE"
+    }
+  ]
+}
